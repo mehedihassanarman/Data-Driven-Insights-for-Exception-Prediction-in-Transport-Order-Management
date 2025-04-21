@@ -17,7 +17,7 @@ Every day, suppliers release transport orders with planned shipment details like
 
 The goal of this project is to **predict these exceptions in advance** using machine learning, allowing companies to take preventive action.
 
----
+![Image 1.png](https://github.com/mehedihassanarman/Data-Driven-Insights-for-Exception-Prediction-in-Transport-Order-Management/blob/main/Project%20Image/Image%201.png)
 
 ## 📊 Dataset Overview
 
