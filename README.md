@@ -1,19 +1,21 @@
 # Data Driven Insights for Exception Prediction in Transport Order Management
+In modern supply chain operations, even a small disruption can ripple across the entire logistics network. This project addresses a critical issue in transport management: identifying transport orders that are likely to result in volume-related exceptions—before they happen.
 
-
-This project tackles a real-world challenge in supply chain logistics: predicting volume-related exceptions in transport orders **before they happen**. By combining historical transport data with machine learning, the solution helps prevent disruptions, reduce manual coordination, and improve delivery reliability.
+By combining historical data analysis and machine learning, this project provides a predictive solution that helps reduce manual effort, avoid production delays, and optimize logistics operations.
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
-Suppliers typically submit transport orders a day before pickup, including details like shipment volume, weight, and number of pallets. However, deviations on the day of pickup—such as shipping more or less than expected—are common. These **exceptions** can:
+Every day, suppliers release transport orders with planned shipment details like pickup date, weight, volume, and number of pallets. However, real-world pickups often deviate from this plan: the supplier may ship more, less, or even fail to ship altogether. These deviations are called **exceptions**, and they:
 
-- Disrupt the entire transport process
-- Increase operational workload
-- Lead to issues in downstream production lines
+Interrupt the flow of goods
 
-The goal is to build a predictive model that identifies high-risk transport orders **in advance**, allowing for timely intervention and mitigation.
+Increase workload for logistics teams
+
+Potentially cause costly production downtimes
+
+The goal of this project is to **predict these exceptions in advance** using machine learning, allowing companies to take preventive action.
 
 ---
 
