@@ -19,6 +19,18 @@ The goal of this project is to **predict these exceptions in advance** using mac
 
 ![Image 1.png](https://github.com/mehedihassanarman/Data-Driven-Insights-for-Exception-Prediction-in-Transport-Order-Management/blob/main/Project%20Image/Image%201.png)
 
+
+The core model used in this project is the Random Forest Classifier, chosen for its robustness and ability to handle complex, high-dimensional data without overfitting.
+
+![Image 2.png](https://github.com/mehedihassanarman/Data-Driven-Insights-for-Exception-Prediction-in-Transport-Order-Management/blob/main/Project%20Image/Image%202.png)
+
+To make the solution accessible to non-technical users, a **graphical user interface** was developed.
+
+**Features:**
+- Input transport order data manually or via file
+- Get real-time predictions
+- View exception risk directly in the app
+
 ## 📊 Dataset Overview
 
 The dataset used contains historical transport order records with attributes such as:
