@@ -1,0 +1,13 @@
+pandas==1.5.2
+
+numpy==1.23.5
+
+matplotlib==3.6.2
+
+seaborn==0.12.2
+
+sklearn==1.2.1
+
+tkinter==8.6
+
+joblib
