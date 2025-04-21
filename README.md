@@ -9,11 +9,11 @@ By combining historical data analysis and machine learning, this project provide
 
 Every day, suppliers release transport orders with planned shipment details like pickup date, weight, volume, and number of pallets. However, real-world pickups often deviate from this plan: the supplier may ship more, less, or even fail to ship altogether. These deviations are called **exceptions**, and they:
 
-Interrupt the flow of goods
+- Interrupt the flow of goods
 
-Increase workload for logistics teams
+- Increase workload for logistics teams
 
-Potentially cause costly production downtimes
+- Potentially cause costly production downtimes
 
 The goal of this project is to **predict these exceptions in advance** using machine learning, allowing companies to take preventive action.
 
